@@ -2,6 +2,8 @@
 Polaris Remote Administration Tool - Mac OS, Windows, Linux Support.
 
 
+TELEGRAM CONTACT : http://t.me/PolarisEncryption
+
 ![P-Letter-Logo-ModernP-logo-Graphics-14298213-1 (1)](https://user-images.githubusercontent.com/86024483/224409338-bb087465-e075-4a0d-8fc9-06e2c72d8ef0.jpg)
 Against AV's
 
