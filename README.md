@@ -5,7 +5,7 @@ Polaris Remote Administration Tool - Mac OS, Windows, Linux Support.
 ![P-Letter-Logo-ModernP-logo-Graphics-14298213-1 (1)](https://user-images.githubusercontent.com/86024483/224409338-bb087465-e075-4a0d-8fc9-06e2c72d8ef0.jpg)
 Against AV's
 
-![Microsoft_Defender_2020_Fluent_Design_icon](https://user-images.githubusercontent.com/86024483/224409446-4c8f4ecb-4367-46bb-bcbe-9ebe434aee8b.png)
+![Microsoft_Defender_2020_Fluent_Design_icon](https://user-images.githubusercontent.com/86024483/224409446-4c8f4ecb-4367-46bb-bcbe-9ebe434aee8b.png width=100)
 ![2560px-ESET_logo svg](https://user-images.githubusercontent.com/86024483/224409457-e8c8e0cb-dc47-4c8b-94c2-624456c12a0f.png)
 ![Avast_logo_2021 svg](https://user-images.githubusercontent.com/86024483/224409470-1a949bdb-af11-4457-b9d1-218ce14d365a.png)
 ![5b43bc88e99939b4572e32b9](https://user-images.githubusercontent.com/86024483/224410917-f75f0fd5-7b63-4691-92a1-560d282e9652.png)
