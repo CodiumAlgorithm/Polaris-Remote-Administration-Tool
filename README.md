@@ -5,17 +5,6 @@ Polaris Remote Administration Tool - Mac OS, Windows, Linux Support.
 ![P-Letter-Logo-ModernP-logo-Graphics-14298213-1 (1)](https://user-images.githubusercontent.com/86024483/224409338-bb087465-e075-4a0d-8fc9-06e2c72d8ef0.jpg)
 Against AV's
 
-![Microsoft_Defender_2020_Fluent_Design_icon](https://user-images.githubusercontent.com/86024483/224409446-4c8f4ecb-4367-46bb-bcbe-9ebe434aee8b.png width=100)
-![2560px-ESET_logo svg](https://user-images.githubusercontent.com/86024483/224409457-e8c8e0cb-dc47-4c8b-94c2-624456c12a0f.png)
-![Avast_logo_2021 svg](https://user-images.githubusercontent.com/86024483/224409470-1a949bdb-af11-4457-b9d1-218ce14d365a.png)
-![5b43bc88e99939b4572e32b9](https://user-images.githubusercontent.com/86024483/224410917-f75f0fd5-7b63-4691-92a1-560d282e9652.png)
-![Kaspersky_Anti-Virus_Logo](https://user-images.githubusercontent.com/86024483/224409836-4c448d55-a46c-47c8-b536-1bf9ff079d48.png)
-![2560px-Malwarebytes_Logo_and_Wordmark_(2016) svg](https://user-images.githubusercontent.com/86024483/224410027-2cce957d-0455-4698-a5a8-60c817886fc0.png)
-![Avira_logo_2011](https://user-images.githubusercontent.com/86024483/224410554-3094ab30-b470-40cf-8b1b-e851646cd5da.png)
-![Quick-Heal-Logo](https://user-images.githubusercontent.com/86024483/224410695-b02b06fa-b36f-4cdf-9a6e-4c3b99d9c708.png)
-![F-Secure_logo_small](https://user-images.githubusercontent.com/86024483/224410793-88b8f29d-e24d-45e3-80a3-5db8285b46cc.png)
-![Webroot-Logo wine](https://user-images.githubusercontent.com/86024483/224410862-be48f1d9-0683-4570-aabc-33ff1464b43d.png)
-
 
 
 
@@ -64,7 +53,7 @@ Against AV's
 
 
 ## Videos 
-[[RELEASE] Polaris Web Remote Administration Tool (VS) ESET Smart Security [ BETA ]
+[RELEASE] Polaris Web Remote Administration Tool (VS) ESET Smart Security [ BETA ]
 https://www.youtube.com/watch?v=g9GfmYJd1q0&t=565s&ab_channel=PolarisAdministration
 
 
@@ -101,6 +90,6 @@ Developed By Polaris Team
 	ZoneAlarm Antivirus	               ✔ 
 	Zillya Internet Security           ✔ 
   }
-  ```
+  
 
 
