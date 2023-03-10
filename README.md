@@ -72,7 +72,7 @@ https://www.youtube.com/watch?v=g9GfmYJd1q0&t=565s&ab_channel=PolarisAdministrat
 
 Developed By Polaris Team
 
-
+<br />
  ```json
   {
  	Adaware Antivirus 12	             ✔ 
